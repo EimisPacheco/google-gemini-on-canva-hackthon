@@ -33,7 +33,11 @@ Wizard Designer Pal is an app that works with generative AI to assist graphic de
 
 Additionally, it offers image background recommendations
 
+![image](https://github.com/user-attachments/assets/5474b628-cef6-47d3-a5f2-9873c2f5e796)
+
+
 ![background_recomendation_process](https://hackthons-ep-2024.s3.us-east-2.amazonaws.com/background_recomendation_process.png)
+
 
 ![background_recomender_and_variation](https://hackthons-ep-2024.s3.us-east-2.amazonaws.com/background_recomender_and_variation.png)
 
